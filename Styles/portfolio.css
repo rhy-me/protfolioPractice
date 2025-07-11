@@ -217,3 +217,32 @@ main section {
 .resume-download-btn-container {
     margin-top: 50px;
 }
+
+/* Footer Styles */
+.footer {
+    display: flex;
+    gap: 117px;
+    background: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 200px;
+}
+
+.footer-column {
+    width: 50%;
+}
+
+.contact input[type = "text"], input[type = "email"], textarea{
+    display: block;
+    margin-bottom: 24px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    border: 0;
+    background: #fff;
+    font-size: 16px;
+    width: 100%;
+}
+
+.social-links a{
+    margin-right: 24px;
+}
