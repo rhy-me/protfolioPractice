@@ -224,7 +224,9 @@ main section {
     gap: 117px;
     background: #FFF8F3;
     margin-top: 100px;
-    padding: 130px 200px;
+    padding: 130px 100px;
+    max-width: 1140px;
+    margin: auto;
 }
 
 .footer-column {
